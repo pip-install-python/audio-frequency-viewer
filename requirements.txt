@@ -1,0 +1,6 @@
+dash>=2.9.0
+dash-mantine-components
+plotly>=5.14.0
+pyaudio>=0.2.13
+numpy>=1.23.0
+scipy>=1.10.0
